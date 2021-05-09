@@ -64,11 +64,19 @@ time, mark, audio, video {
   text-align: center;
 }
 
-/* form */
+.sign {
+	background: rgba(183, 161, 181, 0.12);
+}
 
 .main__sign {
 	padding-bottom: 10%;
+	margin-bottom: 10%;
+	padding: 30px;
 }
+
+
+/* form */
+
 
 .form-sign__legend {
 	font-size: 36px;
